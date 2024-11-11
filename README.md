@@ -14,8 +14,6 @@
 ![Extent Reports](https://img.shields.io/badge/Extent_Reports-FF6347?style=flat-square&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0078D4?style=flat-square&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
-  
- 🌱 I’m currently learning Cucumber and working on continuously improving and enhancing my previous skills
 
  ✅ Web Development technologies I worked with
       - 🌐 HTML
