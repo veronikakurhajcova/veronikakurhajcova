@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Veronika. I'm transitioning from Web Development to automated testing, and I'm passionate about ensuring software quality.
+# <p align="center">👋 Hi, I’m Veronika. I'm transitioning from Web Development to automated testing, and I'm passionate about ensuring software quality. </p>
   
 ## ✅ Testing technologies I work with
      
