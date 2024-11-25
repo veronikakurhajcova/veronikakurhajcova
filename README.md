@@ -44,5 +44,7 @@
      🌐German: Proficient in both spoken and written communication.
   
 **📫 You can reach me at my email: v.kurhajcova@gmail.com or follow me on Instagram @a_coding_veronicca**
+
+## <p align="center">"Achieving quality is not just the responsibility of an individual or a specific team, but it should be a collective effort within the entire organization."</p>
  
 
