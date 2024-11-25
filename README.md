@@ -44,3 +44,5 @@
      🌐German: Proficient in both spoken and written communication.
   
 **📫 You can reach me at my email: v.kurhajcova@gmail.com or follow me on Instagram @a_coding_veronicca**
+ 
+## <p align="center">Quality is not an act, it is a habit.</p>
