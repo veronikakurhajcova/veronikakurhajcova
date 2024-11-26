@@ -9,7 +9,6 @@
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF8C00?style=flat-square&logo=xml&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Apache POI](https://img.shields.io/badge/Apache_POI-F1C232?style=flat-square&logo=apachepoi&logoColor=black)
 ![Page Object Model](https://img.shields.io/badge/Page_Object_Model-4CAF50?style=flat-square&logo=git&logoColor=white)
 ![Extent Reports](https://img.shields.io/badge/Extent_Reports-FF6347?style=flat-square&logo=github&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
